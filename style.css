@@ -1,0 +1,24 @@
+.pic{
+   
+   
+    
+    height: 75px;
+    width: 75px;
+    flex-wrap: wrap;
+}
+.pic:hover{
+    cursor:pointer;
+}
+#grid{
+
+    float: left;
+    align-items: center;
+    padding: 300px; 
+    padding-top: 200px;
+   
+
+
+}
+.body{
+    background-color: rgb(17, 89, 207,0.3);
+}
